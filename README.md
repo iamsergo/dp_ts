@@ -18,7 +18,7 @@
   * ❌ [state](https://github.com/iamsergo/dp_ts/tree/main/behavioral/state)
   * ❌ [strategy](https://github.com/iamsergo/dp_ts/tree/main/behavioral/strategy)
   * ❌ [template_method](https://github.com/iamsergo/dp_ts/tree/main/behavioral/template_method)
-  * ❌ [visitor](https://github.com/iamsergo/dp_ts/tree/main/behavioral/visitor)
+  * ✅ [visitor](https://github.com/iamsergo/dp_ts/tree/main/behavioral/visitor)
 * ❌ [creational](https://github.com/iamsergo/dp_ts/tree/main/creational)
   * ❌ [abstract_factory](https://github.com/iamsergo/dp_ts/tree/main/creational/abstract_factory)
   * ✅ [builder](https://github.com/iamsergo/dp_ts/tree/main/creational/builder)
