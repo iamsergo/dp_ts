@@ -23,5 +23,5 @@
   * ❌ [abstract_factory](https://github.com/iamsergo/dp_ts/tree/main/creational/abstract_factory)
   * ✅ [builder](https://github.com/iamsergo/dp_ts/tree/main/creational/builder)
   * ❌ [factory_method](https://github.com/iamsergo/dp_ts/tree/main/creational/factory_method)
-  * ❌ [prototype](https://github.com/iamsergo/dp_ts/tree/main/creational/prototype)
+  * ✅ [prototype](https://github.com/iamsergo/dp_ts/tree/main/creational/prototype)
   * ❌ [singleton](https://github.com/iamsergo/dp_ts/tree/main/creational/singleton)
