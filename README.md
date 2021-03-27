@@ -2,7 +2,7 @@
 
 * ❌ [structural](https://github.com/iamsergo/dp_ts/tree/main/structural)
   * ✅ [adapter](https://github.com/iamsergo/dp_ts/tree/main/structural/adapter)
-  * ❌ [bridge](https://github.com/iamsergo/dp_ts/tree/main/structural/bridge)
+  * ✅ [bridge](https://github.com/iamsergo/dp_ts/tree/main/structural/bridge)
   * ✅ [composite](https://github.com/iamsergo/dp_ts/tree/main/structural/composite)
   * ✅ [decorator](https://github.com/iamsergo/dp_ts/tree/main/structural/decorator)
   * ✅ [facade](https://github.com/iamsergo/dp_ts/tree/main/structural/facade)
