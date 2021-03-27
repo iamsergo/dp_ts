@@ -7,7 +7,7 @@
   * ✅ [decorator](https://github.com/iamsergo/dp_ts/tree/main/structural/decorator)
   * ✅ [facade](https://github.com/iamsergo/dp_ts/tree/main/structural/facade)
   * ❌ [flyweight](https://github.com/iamsergo/dp_ts/tree/main/structural/flyweight)
-  * ❌ [proxy](https://github.com/iamsergo/dp_ts/tree/main/structural/proxy)
+  * ✅ [proxy](https://github.com/iamsergo/dp_ts/tree/main/structural/proxy)
 * ❌ [behavioral](https://github.com/iamsergo/dp_ts/tree/main/behavioral)
   * ✅ [chain_of_responsibility](https://github.com/iamsergo/dp_ts/tree/main/behavioral/chain_of_responsibility)
   * ❌ [command](https://github.com/iamsergo/dp_ts/tree/main/behavioral/command)
